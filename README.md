@@ -1,7 +1,3 @@
-Got it — you’d like your **User Management API System** documentation rewritten into plain human-friendly language without emojis, stars, hyphens, or exclamations. I’ve cleaned and restructured it so it reads smoothly, almost like a professional product guide.
-
----
-
 User Management API System
 
 This is a complete Node.js backend application that handles user registration, login, and account management. It includes secure authentication, input validation, and reliable database storage.
